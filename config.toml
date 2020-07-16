@@ -1,4 +1,4 @@
-baseURL = "single-blog.netlify.app"
+baseURL = "https://single-blog.netlify.app"
 languageCode = "en-us"
 theme = "blog"
 
